@@ -135,3 +135,39 @@ dmypy.json
 *.log
 config/development.env
 config/production.env
+
+# System and user files to ignore (parent directory level)
+../.bash_history
+../.claude.json
+../.claude/
+../.copilot/
+../.local/
+../.vscode-server/
+../.vscode-shared/
+../AppData/
+../Contacts/
+../Desktop/
+../Documents/
+../Downloads/
+../Favorites/
+../Links/
+../Music/
+../NTUSER.DAT*
+../OneDrive*/
+../Outlook/
+../Saved Games/
+../Searches/
+../Videos/
+../desktop.ini
+../ntuser.dat.LOG*
+../ntuser.ini
+
+# Local directory files
+06. Design and Build/
+2026 breakup.pdf
+ChennaiBiilApril8th/
+Python/
+Screenshots/
+Varicent Design & Build/
+comp2026.pdf
+petrol bills/
