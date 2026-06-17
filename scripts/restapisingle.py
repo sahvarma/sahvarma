@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 import requests
 
-csv_path = r"C:\Users\sahvarma\Pictures\Python\data\stgContractDetails.csv"
+csv_path = r"C:\Users\sahvarma\Pictures\AmeriLife\sahvarma\stgContractDetails.csv"
 endpoint = "https://api.designer-na.cloud.varicent.com/api/v1/customtables/stgContractDetailsAPI/inputforms/0/data/rows"
 headers = {
     "Content-Type": "application/json",
